@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "typeRoots": ["node_modules/@types", "src/types"],
+    "allowJs": true,
+    "jsx": "react",
+    "jsx": "react",
+    "jsx": "react",
+    "jsx": "react",
+    "jsx": "react",
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "isolatedModules": true,
+    "jsx": "react-native",
+    "lib": ["es6"],
+    "moduleResolution": "node",
+    "noEmit": true,
+    "strict": true,
+    "target": "es2017"
+  },
+  "exclude": ["node_modules"],
+  "extends": "expo/tsconfig.base"
+}
